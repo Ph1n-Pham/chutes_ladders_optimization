@@ -1,8 +1,8 @@
 # Dynamic Programming and Reinforcement Learning Algorithms on Chutes and Ladders
 Optimizing the childhood game of Chutes and Ladders using Dynamic Programming and Reinforcement Learning techniques
 
-[Phineas Pham](https://github.com/Ph1n-Pham), Tung Luu, Duc Doan, Uyen Le
-April 2023
+Author: [Phineas Pham](https://github.com/Ph1n-Pham), Tung Luu, Duc Doan, Uyen Le
+Date: April 2023
 
 Chutes and Ladders is a classic childhood game in which players aim
 to move their token from Square 0 to Square 100 on the board by rolling
